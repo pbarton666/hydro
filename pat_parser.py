@@ -6,25 +6,14 @@ import pandas as pd
 from numpy import NaN
 from time import time
 
-from utilities.utilities import *
-from settings import *
 
 fn = "Columbia Run 1_r.xlsx"
-fn = 'Output - Run1.xlsx'
-sheet = "4E80"
+sheet = "4W80"
 
-if fn == 'aardvark':
-	x = 1
-pd.read_csv
-df = pd.read_excel(fn, sheetname = sheet)
-df.to_csv(fn + '.csv')
-df.to_excel(fn + '.xlsx')
+df = pd.read_excel(fn, parse_cols= 25)
 
 x = 1
 
-def patread(filename):
-	if os.path.exists(filename + 'pkl'):
-		pd.read_pickle
 
 
 
