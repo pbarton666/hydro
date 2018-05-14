@@ -1,0 +1,5 @@
+,FirmID,ParentCompanyName,ACSI_ID,Dec 2016 ASCIName,ACSI_Company_Or_Brand_Name,ACSI_Company_Name,ACSI Industry,ACSI_BASELINE,ACSI_95,ACSI_96
+0,1.0,Apple Inc.,37.0,Apple [Cellular Telephones],Apple,Apple,Cellular Telephones,99999,99999,99999
+1,1.0,Apple Inc.,38.0,Apple [Personal Computers],Apple,Apple,Personal Computers,77,75,76
+3,2.0,"Alphabet, Inc.",202.0,Google+ [Internet Social Media],Google+,Google,Internet Social Media,99999,99999,99999
+4,2.0,"Alphabet, Inc.",485.0,YouTube (Google) [Internet Social Media],YouTube (Google),Google,Internet Social Media,99999,99999,99999
